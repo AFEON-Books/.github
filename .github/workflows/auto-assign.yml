@@ -1,0 +1,13 @@
+name: Auto Assign
+on:
+  pull_request:
+    types: [opened, ready_for_review]
+
+jobs:
+  auto-assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto Assign Action
+        uses: kentaro-m/auto-assign-action@v1.2.5 # Use the latest stable version
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
