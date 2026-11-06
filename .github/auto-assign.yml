@@ -1,0 +1,6 @@
+# .github/.github/auto_assign.yml
+addReviewers: true
+addAssignees: false
+reviewers:
+  - acdu1
+numberOfReviewers: 1
