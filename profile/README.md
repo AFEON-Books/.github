@@ -1,3 +1,9 @@
+[![GitHub Repo](https://img.shields.io/badge/GitHub-acdu1%2Fafeonbooks-181717?logo=github)](https://github.com/acdu1/afeonbooks)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Node.js 24](https://img.shields.io/badge/Node.js-24-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![pnpm](https://img.shields.io/badge/pnpm-12.3.4-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/workers/)
 # Welcome to AFEON Books 📚
 
 Welcome to the official GitHub organization for **AFEON Books**! We are a creative, student-led publishing initiative dedicated to crafting, sharing, and selling captivating stories. Originally started by 7th-grade students at Alvarado, our mission is to deliver engaging fiction while supporting our local community and school programs. 
