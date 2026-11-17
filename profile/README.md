@@ -1,4 +1,4 @@
-[![GitHub Repo](https://img.shields.io/badge/GitHub-acdu1%2Fafeonbooks-181717?logo=github)](https://github.com/acdu1/afeonbooks)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-AFEON-Books%2Fafeonbooks-181717?logo=github)](https://github.com/AFEON-Books/afeonbooks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Node.js 24](https://img.shields.io/badge/Node.js-24-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![pnpm](https://img.shields.io/badge/pnpm-12.3.4-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
